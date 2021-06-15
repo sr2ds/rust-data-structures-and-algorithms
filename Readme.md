@@ -9,13 +9,17 @@ This is a new idea for me and I'll soon organize. If do you have idea for contri
 My goal don't is make the "Oh My God, the awesome work". Is only practice `Rust` language and have fun.
 
 ---
+|Search algorithms | Status |
+|---|--|
+|Binary Search|✅|
+
+---
 |Ordenation algorithms | Status |
 |---|--|
 |Bubble sort|⌛|
 |Selection Sort|⌛|
 |Insertion sort|⌛|
 |Quick sort|⌛|
-
 
 ---
 |Data Structures | Status |
